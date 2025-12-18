@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RestauratApp</string>
+
+
+        <string name="pastel_de_choclo">Pastel de Choclo</string>
+        <string name="cazuela">Cazuela</string>
+        <string name="cant">Cant.</string>
+        <string name="comida">Comida</string>
+        <string name="propina">Propina</string>
+        <string name="total">TOTAL</string>
+
+    <string name="money_zero">$0</string>
+
+
+</resources>
